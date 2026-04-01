@@ -31,3 +31,5 @@ Thumbs.db
 .mlvcs_config.json
 
 *.md.*
+*.sw*
+.*.sw*
