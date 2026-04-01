@@ -29,3 +29,5 @@ Thumbs.db
 
 # CLI config (personal)
 .mlvcs_config.json
+
+.README.*
